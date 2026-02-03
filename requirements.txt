@@ -1,0 +1,8 @@
+aiogram>=3.3.0  # Более новая версия, которая поддерживает pydantic 2.0
+asyncpg
+aiohttp
+python-dotenv
+sqlalchemy[asyncio]==1.4.45
+pydantic==2.0
+pandas
+nest-asyncio
